@@ -68,3 +68,13 @@ Update Record
 The following screenshot shows a successful execution of the Power Automate workflow, including data retrieval, business-rule evaluation, conditional logic, routing, email actions, and record updates.
 
 ![Successful Flow Execution](01-successful-flow-execution.png)
+
+## 🏗️ Solution Architecture
+
+The solution follows a simple automation architecture where Excel acts as the data source, Power Automate manages the business logic and scheduling, and Outlook handles the email communication.
+
+![Solution Architecture](screenshots/architecture01-solution-architecture.png)
+
+
+
+
