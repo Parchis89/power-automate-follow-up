@@ -74,6 +74,11 @@ The following screenshot shows a successful execution of the Power Automate work
 The solution follows a simple automation architecture where Excel acts as the data source, Power Automate manages the business logic and scheduling, and Outlook handles the email communication.
 
 ![Solution Architecture](02-solution-architecture.png)
+## 🏗️ Solution Architecture
+
+The solution follows a simple automation architecture where Excel acts as the data source, Power Automate manages the business logic and scheduling, and Outlook handles the email communication.
+
+![Solution Architecture](02-solution-architecture.png)
 
 
 
