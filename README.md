@@ -76,7 +76,6 @@ The solution follows a simple automation architecture where Excel acts as the da
 ![Solution Architecture](screenshots/02-solution-architecture.png)
 
 
-![Solution Architecture](02-solution-architecture.png)
 
 
 
