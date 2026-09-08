@@ -61,3 +61,9 @@ Email
  │
  ▼
 Update Record
+
+## 📸 Evidence of Execution
+
+The following screenshot shows a successful execution of the Power Automate workflow, including data retrieval, business-rule evaluation, conditional logic, routing, email actions, and record updates.
+
+![Successful Flow Execution](01-successful-flow-execution.png)
